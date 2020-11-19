@@ -1,0 +1,101 @@
+
+body{background-image: linear-gradient(to left bottom, #b22c83, #ae2f9c, #a239b8, #8a48d5, #5858f2);background-repeat:no-repeat;height: 891px;}
+
+h1 {
+    color: white;
+    font-family: 'Goldman';
+    font-size: 56px;
+    margin-left: 50px;
+    text-shadow: 6px 2px 10px black;
+	max-width:100%;
+}
+b {
+    font-size: 84px;
+    text-shadow: 9px 0px 3px black;
+}
+
+.rules h2 {
+    color: white;
+    font-family: oswald;
+}
+
+.rules {
+    width: 500px;
+    margin-left: 74px;
+	    margin-top: -46px;
+		float:left;
+}
+
+.rules i {
+    color: #1aeef7;
+    padding-right: 11px;
+    height: 12px;
+}
+
+.rules p {
+    margin-top: -20px;
+    text-align: justify;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 22px;
+}
+
+.points {
+    float: left;
+    margin-left:24pc;
+    margin-top: 1pc;
+}
+
+.pointstitle h2 {
+    font-size: 58px;
+    font-family: 'Goldman';
+    color: white;
+    text-shadow: 3px 6px 1px black;
+	text-align: center;
+}
+
+.number {
+    width: 455px;
+    height: 455px;
+    background: white;
+    border-radius: 100%;
+}
+
+.number {
+    width: 455px;
+    height: 455px;
+    background: white;
+    border-radius: 100%;
+}
+
+.number {
+    width: 455px;
+    height: 455px;
+    background: white;
+    border-radius: 100%;
+    font-size: 323px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.footer {
+    float: right;
+    margin-right: 45pc;
+    margin-top: 10px;
+}
+
+.footer p {
+    color: white;
+    font-family: monospace;
+    font-size: 21px;
+}
+
+.footer i {
+    padding-right: 5px;
+    font-size: 20px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #ecececa8;
+}
